@@ -1,4 +1,5 @@
 apfoo-example
 =============
 
-Example for using apfoo package
+Example for using apfoo package. This is to learn how to use composer for PHP and creating
+own packages.
